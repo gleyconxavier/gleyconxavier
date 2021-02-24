@@ -5,7 +5,7 @@
 I'm a passionate tech problem solver.
 Full-Stack Developer :computer:
 
- :rocket:  &nbsp; I'm currently working on **EUCATUR**
+ :rocket:  &nbsp; Currently working on **EUCATUR**
  <br/> :purple_heart: &nbsp; Collaborating on projects with Back-end development utilizing Golang
  <br/> :blush: &nbsp; I can help you with Golang and ReactJS
  <br/> :computer: &nbsp; My stack: ReactJS, Golang, React Native & Typescript
