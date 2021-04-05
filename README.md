@@ -15,3 +15,6 @@ Full-Stack Developer :computer:
  <br/> :email: &nbsp; Contact-me: [![Linkedin Badge](https://img.shields.io/badge/-GleyconXavier-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gleyconxavier/)](https://www.linkedin.com/in/gleyconxavier/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-gleyconxcarlos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gleyconxcarlos@gmail.com)](mailto:gleyconxcarlos@gmail.com)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
