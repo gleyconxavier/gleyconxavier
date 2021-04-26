@@ -16,8 +16,9 @@ Full-Stack Developer :computer:
 | 
 [![Gmail Badge](https://img.shields.io/badge/-gleyconxcarlos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gleyconxcarlos@gmail.com)](mailto:gleyconxcarlos@gmail.com)
 
+![](https://komarev.com/ghpvc/?username=gleyconxavier)
+
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My Github Data** 
 
