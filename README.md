@@ -25,7 +25,7 @@ Full-Stack Developer :computer:
 
 > 🏆 189 Contributions in the Year 2021
  > 
-> 📦 295.3 kB Used in Github's Storage 
+> 📦 295.6 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
