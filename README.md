@@ -23,7 +23,7 @@ Full-Stack Developer :computer:
 
 **🐱 My GitHub Data** 
 
-> 🏆 250 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 305.8 kB Used in GitHub's Storage 
  > 
@@ -67,5 +67,5 @@ Unknown OS               3 hrs               █████░░░░░░�
 ```
 
 
- Last Updated on 31/12/2021
+ Last Updated on 01/01/2022
 <!--END_SECTION:waka-->
