@@ -50,19 +50,16 @@ Full-Stack Developer :computer:
 ⌚︎ Time Zone: America/Porto_Velho
 
 💬 Programming Languages: 
-Other                    4 hrs 30 mins       ███████████████████████░░   94.15% 
-Go                       16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.85%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Unknown Editor           4 hrs 30 mins       ███████████████████████░░   94.15% 
-GoLand                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.85%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Unknown OS               4 hrs 30 mins       ███████████████████████░░   94.15% 
-Linux                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.85%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 18/03/2022 18:43:37 UTC
+ Last Updated on 19/03/2022 18:42:05 UTC
 <!--END_SECTION:waka-->
