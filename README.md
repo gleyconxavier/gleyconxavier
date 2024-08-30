@@ -1,4 +1,4 @@
-# Gleycon Xavier
+# Gleycon
 
 ## Howdy partner! 👋
 
